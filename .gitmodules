@@ -90,10 +90,6 @@
 	path = apps/projectmonitor
 	url = git@github.com:pivotal/projectmonitor.git
 	branch = master
-[submodule "apps/canvas-lms"]
-	path = apps/canvas-lms
-	url = git@github.com:instructure/canvas-lms.git
-	branch = master
 [submodule "apps/hours"]
 	path = apps/hours
 	url = git@github.com:DefactoSoftware/Hours.git
@@ -105,10 +101,6 @@
 [submodule "apps/loomio"]
 	path = apps/loomio
 	url = git@github.com:loomio/loomio.git
-	branch = master
-[submodule "apps/netguru-help"]
-	path = apps/netguru-help
-	url = git@github.com:netguru/help.git
 	branch = master
 [submodule "apps/tracks"]
 	path = apps/tracks
@@ -169,10 +161,6 @@
 [submodule "apps/bridge_troll"]
 	path = apps/bridge_troll
 	url = git@github.com:railsbridge/bridge_troll.git
-	branch = master
-[submodule "apps/shoppe"]
-	path = apps/shoppe
-	url = git@github.com:tryshoppe/shoppe.git
 	branch = master
 [submodule "apps/whitehall"]
 	path = apps/whitehall
@@ -695,10 +683,6 @@
 	path = apps/worldcubeassociation.org
 	url = git@github.com:thewca/worldcubeassociation.org.git
 	branch = master
-[submodule "engines/o_cms"]
-	path = engines/o_cms
-	url = git@github.com:benjaminayres/o_cms.git
-	branch = master
 [submodule "engines/field_test"]
 	path = engines/field_test
 	url = git@github.com:ankane/field_test.git
@@ -846,10 +830,6 @@
 [submodule "engines/heya"]
 	path = engines/heya
 	url = git@github.com:honeybadger-io/heya.git
-	branch = master
-[submodule "apps/mastodon"]
-	path = apps/mastodon
-	url = git@github.com:tootsuite/mastodon.git
 	branch = master
 [submodule "apps/identity-idp"]
 	path = apps/identity-idp
